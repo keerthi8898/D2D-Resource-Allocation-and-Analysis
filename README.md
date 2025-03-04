@@ -1,4 +1,3 @@
-# D2D-Resource-Allocation-and-Analysis
 # D2D Resource Allocation and Analysis
 
 ## Overview  
